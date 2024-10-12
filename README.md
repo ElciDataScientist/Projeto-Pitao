@@ -20,3 +20,4 @@ Visualização de Dados
 - Quantidade de Transações do Últimos 12 Meses
 - Valor das Transações dos Últimos 12 Meses
 - Valor de Transações X Quantidades de Transações
+- Média entre o Sexo Masculino x Feminino
